@@ -1,0 +1,18 @@
+{
+  "name": "pfpsbot",
+  "version": "1.0.0",
+  "description": "A very simple bot that greets when someone say hi, hello or anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pfp"
+  ],
+  "author": "Ansh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.1.0"
+  }
+}
